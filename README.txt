@@ -15,4 +15,4 @@ Instructions:
 	+ Open application.py, run the command: python ./application.py and follow the instructions of the commandline application.
 
 Github Repositories: https://github.com/khoigithub/A3
-Youtube link: https://youtu.be/DKQCHxEwztg
+Youtube Demo Link: https://youtu.be/DKQCHxEwztg
